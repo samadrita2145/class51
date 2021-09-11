@@ -1,0 +1,20 @@
+body{
+    background-color:#5b5be4;
+}
+.header{
+    background-color:rgba(230, 17, 201, 0.589);
+    display: flex;
+    justify-content: space-between;
+}
+p,h2{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
